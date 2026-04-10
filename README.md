@@ -36,12 +36,7 @@ Plataforma web construida desde cero con React + Node.js + PostgreSQL. Arquitect
 [![Frontend](https://img.shields.io/badge/frontend-repo-61DAFB?style=flat-square&logo=react)](https://github.com/zdastev/habik-frontend)
 [![Backend](https://img.shields.io/badge/backend-repo-339933?style=flat-square&logo=nodedotjs)](https://github.com/zdastev/habik-backend)
 
----
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zdastev&show_icons=true&theme=github_dark&hide_border=true&title_color=A8FF3E&icon_color=A8FF3E" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdastev&layout=compact&theme=github_dark&hide_border=true&title_color=A8FF3E" height="160"/>
 
 ---
 

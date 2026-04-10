@@ -1,6 +1,6 @@
 <div align="center">
 
-# Steven Díaz · ZDastev
+# Steven Díaz · zdastev
 
 **Full-Stack Developer** — Valencia, España 🇨🇴
 

@@ -2,15 +2,15 @@
 
 # Steven Díaz · ZDastev
 
-**Full-Stack Developer** — Valencia, España
+**Full-Stack Developer** — Valencia, España 🇨🇴
 
 </div>
 
 ---
 
-Llevo un tiempo construyendo [Habik](https://habik.es), una plataforma web que empecé desde cero y que sigue en desarrollo activo. Es el proyecto en el que más he aprendido: arquitectura propia, decisiones de producto reales, y el caos bonito de llevar frontend, backend y base de datos tú solo.
+Construí [Habik](https://habik.es), una plataforma web que desarrollé desde cero: arquitectura propia, decisiones de producto reales, y el reto de llevar frontend, backend y base de datos al mismo tiempo. Fue el proyecto donde más aprendí.
 
-Me muevo bien entre React y Node.js, y últimamente le estoy dando más caña a TypeScript. Me gusta que las cosas funcionen bien, no solo que se vean bien.
+Me muevo bien entre React y Node.js, y últimamente estoy profundizando más en TypeScript. Me importa que las cosas funcionen bien, no solo que se vean bien.
 
 ---
 
@@ -22,12 +22,16 @@ Me muevo bien entre React y Node.js, y últimamente le estoy dando más caña a 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## Habik.es
 
-Plataforma en producción construida con React + Node.js + PostgreSQL. Arquitectura full-stack propia, sin boilerplates ni plantillas. Tiene funcionalidades en tiempo real y sigue creciendo.
+Plataforma web construida desde cero con React + Node.js + PostgreSQL. Arquitectura full-stack propia, sin boilerplates. Incluye funcionalidades en tiempo real y está en producción.
 
 [![Frontend](https://img.shields.io/badge/frontend-repo-61DAFB?style=flat-square&logo=react)](https://github.com/zdastev/habik-frontend)
 [![Backend](https://img.shields.io/badge/backend-repo-339933?style=flat-square&logo=nodedotjs)](https://github.com/zdastev/habik-backend)
@@ -44,5 +48,7 @@ Plataforma en producción construida con React + Node.js + PostgreSQL. Arquitect
 [![Web](https://img.shields.io/badge/habik.es-000000?style=for-the-badge)](https://habik.es)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdastev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevendiaz-dev/)
+
+<sub>📍 Valencia, España · UTC+2</sub>
 
 </div>
